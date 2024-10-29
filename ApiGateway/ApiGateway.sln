@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiGateway", "ApiGateway\ApiGateway.csproj", "{C6B5C08F-0A75-4A17-9442-D07168311172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testbenchmark", "testbenchmark\testbenchmark.csproj", "{F3382612-D78A-43A4-B6E2-20F398DB2840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6B5C08F-0A75-4A17-9442-D07168311172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6B5C08F-0A75-4A17-9442-D07168311172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6B5C08F-0A75-4A17-9442-D07168311172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6B5C08F-0A75-4A17-9442-D07168311172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3382612-D78A-43A4-B6E2-20F398DB2840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3382612-D78A-43A4-B6E2-20F398DB2840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3382612-D78A-43A4-B6E2-20F398DB2840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3382612-D78A-43A4-B6E2-20F398DB2840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F8C2595-D5C9-4FBC-AB99-17689C7C67C2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|c:\\users\\user\\desktop\\kl\\messagingservice\\messagingservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|solutionrelative:messagingservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|c:\\users\\user\\desktop\\kl\\messagingservice\\messagingservice\\messagingservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|solutionrelative:messagingservice\\messagingservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|c:\\users\\user\\desktop\\kl\\messagingservice\\messagingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|solutionrelative:messagingservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|c:\\users\\user\\desktop\\kl\\messagingservice\\messagingservice\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|solutionrelative:messagingservice\\controllers\\messagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|c:\\users\\user\\desktop\\kl\\messagingservice\\messagingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|solutionrelative:messagingservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|c:\\users\\user\\desktop\\kl\\messagingservice\\messagingservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|solutionrelative:messagingservice\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|c:\\users\\user\\desktop\\kl\\messagingservice\\messagingservice\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|solutionrelative:messagingservice\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|c:\\users\\user\\desktop\\kl\\messagingservice\\messagingservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|solutionrelative:messagingservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|c:\\users\\user\\desktop\\kl\\messagingservice\\messagingservice\\data\\messagingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C13C7D-23B3-46D8-8B6D-3701838B7112}|MessagingService\\MessagingService.csproj|solutionrelative:messagingservice\\data\\messagingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MessagingService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MessagingService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T07:28:40.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessagingService",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\MessagingService.csproj",
+              "RelativeDocumentMoniker": "MessagingService\\MessagingService.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\MessagingService.csproj",
+              "RelativeToolTip": "MessagingService\\MessagingService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T07:28:37.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MessagingService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MessagingService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:31:40.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MessagesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Controllers\\MessagesController.cs",
+              "RelativeDocumentMoniker": "MessagingService\\Controllers\\MessagesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Controllers\\MessagesController.cs",
+              "RelativeToolTip": "MessagingService\\Controllers\\MessagesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:12:12.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MessagingService\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\WeatherForecast.cs",
+              "RelativeToolTip": "MessagingService\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:10:27.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Program.cs",
+              "RelativeDocumentMoniker": "MessagingService\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Program.cs",
+              "RelativeToolTip": "MessagingService\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T05:03:21.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\appsettings.json",
+              "RelativeDocumentMoniker": "MessagingService\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\appsettings.json",
+              "RelativeToolTip": "MessagingService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T05:00:54.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MessagingDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Data\\MessagingDbContext.cs",
+              "RelativeDocumentMoniker": "MessagingService\\Data\\MessagingDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Data\\MessagingDbContext.cs",
+              "RelativeToolTip": "MessagingService\\Data\\MessagingDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:57:54.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "MessagingService\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\KL\\MessagingService\\MessagingService\\Models\\Message.cs",
+              "RelativeToolTip": "MessagingService\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T04:52:42.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
